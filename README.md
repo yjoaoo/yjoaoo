@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Criando bugs desde 2024!<br>📚 Atualmente estou aprendendo Python, SQL, Programação Orientada a Objetos e infraestrutura de redes.<br>🎯 Objetivos: Me especializar em desenvolvimento Fullstack e gerenciamento de bancos de dados.<br>🎲 Curiosidade: Trabalhei como assistente administrativo no Hospital Universitário de Brasília, mas sempre fui apaixonado por tecnologia!</p>
+<p align="left">✨ Criando bugs desde 2024!<br>📚 Atualmente estou aprendendo Python, SQL, JavaScript, HTML, CSS, Power BI Programação Orientada a Objetos e infraestrutura de redes.<br>🎯 Objetivos: Me especializar em desenvolvimento Fullstack e gerenciamento de bancos de dados.<br>🎲 Curiosidade: Trabalhei como assistente administrativo no Hospital Universitário de Brasília, mas sempre fui apaixonado por tecnologia!</p>
 
 ###
 
